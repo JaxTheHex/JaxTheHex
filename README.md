@@ -1,20 +1,10 @@
-👋 Hi, I’m Jackie. I’m a UX/UI Designer who loves creating experiences that are not just functional but also fun and engaging. I’ve been in the design world for about 7 years, and I’m always looking for exciting new challenges.
-  
-👀 I’m into building design systems and creating interactive, inclusive, and beautiful designs. I love breaking down complex things into simple, enjoyable experiences.
+# Hi, I’m Jackie
 
-🌱 Right now, I’m focusing on making my designs more accessible and ensuring everyone can have a great experience.
+Senior Product Designer (UX/UI). I focus on design systems, accessibility, and creating clear, scalable UI foundations.
 
-💞️  I’m looking to team up on projects where we can create something amazing together that make a positive impact on people's lives. 
+This GitHub is a space for small experiments, prototypes, and hackathon projects, especially around AI-enabled UX, design system tooling, and workflow improvements.
 
-📫 How to reach me:
-
-- Email: hello@jackietorizani.com
-- Portfolio: jackietorizani.com
-- LinkedIn: linkedin.com/in/jackieux
-
-😄 Pronouns: She/Her
-
-⚡ Fun fact:  When I’m not designing, you’ll probably find me traveling, enjoying nature, listening to podcasts, or learning something random (right now, the cello is on the list).
+I’m not a software engineer, but I enjoy understanding how things work and collaborating closely with developers.
 <!---
 JaxTheHex/JaxTheHex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
